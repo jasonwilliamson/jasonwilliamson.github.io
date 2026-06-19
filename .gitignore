@@ -4,7 +4,6 @@ _site
 .bundle/
 vendor/bundle/
 yarn.lock
-Gemfile.lock
 package-lock.json
 node_modules/
 
