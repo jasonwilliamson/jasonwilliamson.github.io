@@ -12,5 +12,3 @@ QR for testing purposes only
 Thanks for reviewing the app.
 
 ![Test QR code](/assets/img/test-qr-code.jpg)
-
-advise
